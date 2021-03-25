@@ -55,7 +55,7 @@ extensions = [
     'sphinxcontrib.apidoc',  # automatically generate API docs, see https://github.com/rtfd/readthedocs.org/issues/1139
     'nbsphinx',
     'nbsphinx_link',  # for linking notebooks from outside sphinx source root
-    'm2r'
+    'm2r2'
 ]
 
 # nbsphinx settings
